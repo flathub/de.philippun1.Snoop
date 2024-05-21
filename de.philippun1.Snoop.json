@@ -1,7 +1,7 @@
 {
     "app-id" : "de.philippun1.Snoop",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "45",
+    "runtime-version" : "46",
     "sdk" : "org.gnome.Sdk",
     "command" : "snoop",
     "finish-args" : [
@@ -32,8 +32,8 @@
             "sources": [
               {
                 "type": "archive",
-                "url": "https://gitlab.gnome.org/philippun1/snoop/-/archive/0.2/snoop-0.2.tar.gz",
-                "sha256": "d61e89e898fd6791c386f8c0d2e25bd4f808171ff47780792f83c37f7e65bc49"
+                "url": "https://gitlab.gnome.org/philippun1/snoop/-/archive/0.3/snoop-0.3.tar.gz",
+                "sha256": "f6adca4f4136d96a95ff40450107378c6bf2dcc714b896994ac7c66bdd14676d"
               }
             ]
         }
