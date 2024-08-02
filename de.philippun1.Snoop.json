@@ -32,8 +32,8 @@
             "sources": [
               {
                 "type": "archive",
-                "url": "https://gitlab.gnome.org/philippun1/snoop/-/archive/0.3.1/snoop-0.3.1.tar.gz",
-                "sha256": "68d0cc78b2255777fb75829cde312d79252b7ce4abc12a59e1fabf4656373179"
+                "url": "https://gitlab.gnome.org/philippun1/snoop/-/archive/0.3.2/snoop-0.3.2.tar.gz",
+                "sha256": "5911ceb1a7c49b4ede433ec1beaab7b77c8d7e94907fdd855d7946a8c29f67a3"
               }
             ]
         }
