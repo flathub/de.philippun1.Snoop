@@ -1,7 +1,7 @@
 {
     "app-id" : "de.philippun1.Snoop",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "48",
+    "runtime-version" : "50",
     "sdk" : "org.gnome.Sdk",
     "command" : "snoop",
     "finish-args" : [
@@ -11,18 +11,6 @@
         "--socket=wayland",
         "--filesystem=home",
         "--device=dri"
-    ],
-    "cleanup" : [
-        "/include",
-        "/lib/pkgconfig",
-        "/man",
-        "/share/doc",
-        "/share/gtk-doc",
-        "/share/man",
-        "/share/pkgconfig",
-        "/share/vala",
-        "*.la",
-        "*.a"
     ],
     "modules" : [
         {
